@@ -21,7 +21,7 @@ gem install twurl
 now that you've done that, let's configure twurl to leverage the twitter API.
 
 add these lines to your ~/.bashrc file. Replace the path with the path of your jahphone.py file if you moved it.
-
+make sure to replace USER with your username.
 
 ```
 alias jahphone='python3 /home/USER/jahphone/jahphone.py'
